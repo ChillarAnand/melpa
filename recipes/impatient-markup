@@ -1,0 +1,4 @@
+(impatient-markup
+   :fetcher github
+   :repo "chillaranand/impatient-markup"
+   :files ("impatient-markup.el"))
